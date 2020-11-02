@@ -1,6 +1,6 @@
 # screen-recorder
 
-![screen-recorder test](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/test.gif)
+![screen-recorder test](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/.github/test.gif)
 
 👨‍💻Приложение для 🎥съёмки экрана на JS, задумывалось для снятия игр в **Among As** [тут](https://zen.yandex.ru/id/5e91a7870a471779a8542fe9), но решил поделиться!
 
@@ -20,7 +20,7 @@
 
 -----------
 ## VSCode
-![VS Code](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/vscode.gif)
+![VS Code](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/.github/vscode.gif)
 -----------
 ## Браузер
-![Браузер](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/browser.gif)
+![Браузер](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/.github/browser.gif)
