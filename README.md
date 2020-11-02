@@ -18,6 +18,7 @@
 
 ## [Инструкция по сборке](https://github.com/htmlcssphpjs/screen-recorder/blob/main/use.md)
 
+# Тест
 -----------
 ## VSCode
 ![VS Code](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/.github/vscode.gif)
