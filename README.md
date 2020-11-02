@@ -17,3 +17,10 @@
 ## [Скачать exe для Windows](https://github.com/htmlcssphpjs/screen-recorder/releases/tag/%231)
 
 ## [Инструкция по сборке](https://github.com/htmlcssphpjs/screen-recorder/blob/main/use.md)
+
+-----------
+## VSCode
+[VS Code](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/vscode.gif)
+-----------
+## Браузер
+[Браузер](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/browser.gif)
