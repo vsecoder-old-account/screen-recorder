@@ -13,3 +13,5 @@
  + Удобный интерфейс без ничего лишнего
  
  + Исходники открыты
+
+## [Скачать exe для Windows](https://github.com/htmlcssphpjs/screen-recorder/releases/tag/%231)
