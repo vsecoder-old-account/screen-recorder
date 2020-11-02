@@ -20,7 +20,7 @@
 
 -----------
 ## VSCode
-[VS Code](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/vscode.gif)
+![VS Code](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/vscode.gif)
 -----------
 ## Браузер
-[Браузер](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/browser.gif)
+![Браузер](https://raw.githubusercontent.com/htmlcssphpjs/screen-recorder/main/img/browser.gif)
